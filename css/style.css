@@ -42,6 +42,7 @@ main {
   height: 30px;
   background-color: #48a3001a;
   border-radius: 15px;
+  margin-bottom: 42px;
 }
 
 .progress-amount {
@@ -58,11 +59,16 @@ main {
   padding-left: 20px;
 }
 
+.progress-amount span {
+  padding-left: 20px;
+}
+
 .error-label {
   color: #ff5151;
   font-size: 14px;
   font-weight: 400;
-  margin-block: 20px;
+  margin-top: 10px;
+  display: none;
 }
 
 .goals-container {
