@@ -15,12 +15,6 @@ A simple and interactive To-Do List web application that allows users to add, ed
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here if possible (UI of the app).
-
----
-
 ## 📁 Folder Structure
 
 To-do-list-application/
@@ -58,80 +52,43 @@ To-do-list-application/
    ```bash
    git clone https://github.com/Ashutoshk18/To-do-list-application
    ```
-
----
-
-## 💡 How It Works
-
-1. Users enter their goals in input fields.
-2. Once all goals are filled, checkboxes become active.
-3. Toggling a checkbox updates the progress bar visually.
-4. All data (tasks and completion status) is saved to `localStorage`.
-5. Reloading the page restores your goals and progress.
-
----
-
-## 📌 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Browser `localStorage`
-
----
-
-## 📦 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ashutoshk18/To-do-list-application
-   ```
-
----
-
-## 💡 How It Works
-
-1. Users enter their goals in input fields.
-2. Once all goals are filled, checkboxes become active.
-3. Toggling a checkbox updates the progress bar visually.
-4. All data (tasks and completion status) is saved to `localStorage`.
-5. Reloading the page restores your goals and progress.
-
----
-
-## 📌 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Browser `localStorage`
-
----
-
-## 📦 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ashutoshk18/To-do-list-application
-   ```
 2. Open index.html in your browser to run the app.
+   ```txt
    No build or server setup required – it runs fully in the browser!
+   ```
 
-🧠 Learning Objectives
-This project was built to practice:
+---
 
-DOM manipulation
+## 🔗 Live Demo on NetlifyYou can try out the live version of this app here:
 
-Event handling
+👉 **[To-Do List App on Netlify](https://to-do-list-ashutoshk18.netlify.app/)**
 
-JavaScript objects and arrays
+> No setup needed — just open the link in your browser and start using the app!
 
-Browser storage (localStorage)
+---
+
+## 🧠 Learning Objectives
+
+- This project was built to practice:
+
+- DOM manipulation
+
+- Event handling
+
+- JavaScript objects and arrays
+
+- Browser storage (localStorage)
 
 UI/UX feedback techniques
 
-🙌 Acknowledgements
+---
+
+## 🙌 Acknowledgements
+
 This project is part of my personal learning journey in front-end web development. Inspired by real-world productivity tools and the need for a simple goal tracker.
 
-📬 Feedback & Contributions
+---
+
+## 📬 Feedback & Contributions
+
 Feel free to open issues or pull requests if you'd like to improve the app or report bugs.
