@@ -16,7 +16,7 @@ A simple and interactive To-Do List web application that allows users to add, ed
 ---
 
 ## 📁 Folder Structure
-
+```
 To-do-list-application/
 ├── index.html
 ├── css/
@@ -24,6 +24,7 @@ To-do-list-application/
 ├── js/
 │ └── script.js
 └── README.md
+```
 
 ---
 
